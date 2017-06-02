@@ -1,0 +1,10 @@
+a:active { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; 
+color: #FFFFFF; text-decoration: none; font-style: normal} 
+a:link { font-family: 
+Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; color: 
+#DDDDDD; text-decoration: none} 
+a:visited { font-family: Verdana, Arial, Helvetica, 
+sans-serif; font-size: 10px; color: #DDDDDD; text-decoration: none} 
+a:hover { 
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: 
+normal; color: #FFFFFF; text-decoration: underline}

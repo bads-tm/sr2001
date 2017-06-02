@@ -1,2 +1,2 @@
-# sr2001
-Stormregion Site 2001 Recreation (Web Archive Less)
+# Stormregion Website 2001
+Unofficial version / copy of web archive without it's additions. just like the original...
